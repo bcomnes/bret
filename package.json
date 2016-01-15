@@ -1,0 +1,23 @@
+{
+  "name": "bret",
+  "version": "1.0.0",
+  "description": "Bret",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/bret.git"
+  },
+  "keywords": [
+    "Bret",
+    "Comnes"
+  ],
+  "author": "Bret Comnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcomnes/bret/issues"
+  },
+  "homepage": "https://github.com/bcomnes/bret#readme"
+}
